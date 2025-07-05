@@ -1,2 +1,2 @@
 # Full-Stack-teht
-Full stack kurssin palautus repositorio :)
+Full stack kurssin palautus repositorio
